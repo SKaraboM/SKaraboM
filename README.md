@@ -1,9 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Karabo Makgoba</h1>
 <h3 align="center">A passionate frontend developer from Johannesburg, South Africa</h3>
-<img align="center" width="400" alt="code" margin="10" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" />
+<img align="center" width="400" alt="code" margin="10" src="[https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif](https://media3.giphy.com/labs/images/api.gif)" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skarabom" alt="skarabom" /></a> </p>
 
 - 🔭 I’m currently working on [UJ Arts Ticketing System](https://arts-uj.netlify.app/)
 
