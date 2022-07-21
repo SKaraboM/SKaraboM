@@ -1,18 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Karabo Makgoba</h1>
 <h3 align="center">A passionate frontend developer from Johannesburg, South Africa</h3>
-<img align="middle" width="400" alt="code" margin="10" src="https://media3.giphy.com/labs/images/api.gif" />
+<img align="bottom" width="400" alt="code" margin="10" src="https://media3.giphy.com/labs/images/api.gif" />
 
 
 - 🔭 I’m currently working on [UJ Arts Ticketing System](https://arts-uj.netlify.app/)
 
-- 🌱 I’m currently learning **React, CSS Tailwind**
+- 🌱 I’m currently learning: **React and CSS Tailwind**
 
 - 💬 Ask me about **Front-end development**
 
-- 📫 How to reach me **makgobask2002@gmail.com**
+- 📫 How to reach me: **EMAIL: makgobask2002@gmail.com**
 
-- ⚡ Fun fact **If I'm not at the desk coding, I'm probably at the gym hitting PRs**
+- ⚡ Fun fact about me; **If I'm not at the desk coding, I'm probably at the gym hitting PRs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
