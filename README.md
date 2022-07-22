@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Karabo Makgoba</h1>
 <h3 align="center">A passionate frontend developer from Johannesburg, South Africa</h3>
-<img  width="400" alt="code" margin="10" src="https://media3.giphy.com/labs/images/api.gif" />
+<img  width="20%" alt="code" margin="10" src="https://media3.giphy.com/labs/images/api.gif" />
 
 
 - 🔭 I’m currently working on [UJ Arts Ticketing System](https://arts-uj.netlify.app/)
