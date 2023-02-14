@@ -4,9 +4,8 @@
 <img  width="50%" align="center" alt="code" margin="10" src="https://media3.giphy.com/labs/images/api.gif" />
 
 
-- 🔭 I’m currently working on [UJ Arts Ticketing System](https://uj-arts-myunllqxf-zero1devs.vercel.app/)
 
-- 🌱 I’m currently learning: **React and CSS Tailwind**
+- 🌱 I’m currently learning: **Mobile development with React Native**
 
 - 💬 Ask me about **Front-end development**
 
