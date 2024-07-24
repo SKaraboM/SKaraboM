@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Karabo Makgoba</h1>
 <h3 align="center">A passionate Software Developer from Johannesburg, South Africa</h3>
-<img  width="50%" align-self="center" alt="code" margin="10" src="https://media3.giphy.com/labs/images/api.gif" />
+<img  width="50%" align-self="center" alt="code" margin="10px auto" src="https://media3.giphy.com/labs/images/api.gif" />
 
 
 
