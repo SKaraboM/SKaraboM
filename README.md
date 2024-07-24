@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Karabo Makgoba</h1>
-<h3 align="center">A passionate frontend developer from Johannesburg, South Africa</h3>
+<h3 align="center">A passionate Software Developer from Johannesburg, South Africa</h3>
 <img  width="50%" align="center" alt="code" margin="10" src="https://media3.giphy.com/labs/images/api.gif" />
 
 
 
-- 🌱 I’m currently learning: **Mobile development with React Native**
+- 🌱 I’m currently learning: **How to build software with embedded AI cabability.**
 
-- 💬 Ask me about **Front-end development**
+- 💬 Ask me about **Object Detection Artificial Intelligence and AWS Cloud Essentials**
 
 - 📫 How to reach me: **EMAIL: makgobask2002@gmail.com**
 
