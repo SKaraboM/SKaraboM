@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **EMAIL: makgobask2002@gmail.com**
 
-- ⚡ Fun fact about me; **If I'm not at the desk coding, Simracing "Assetto Corsa Fan"**
+- ⚡ Fun fact about me; **If I'm not at the desk coding, I am simracing on "Assetto Corsa"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
